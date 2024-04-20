@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951141844283",
+    "project_id": "lilacsalmankv-43c83",
+    "storage_bucket": "lilacsalmankv-43c83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951141844283:android:c59d0e56860fe3993da31e",
+        "android_client_info": {
+          "package_name": "com.example.lilac_salmankv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSyv_265BaaDaMhGz8tmLsX94CTgWRZvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
